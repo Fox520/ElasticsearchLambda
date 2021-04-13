@@ -14,8 +14,8 @@ Open `app.py` and set the variables accordingly
 Create `~/.aws/credentials` and place the following
 ```python
 [default]
-aws_access_key_id = "REPLACE"
-aws_secret_access_key = "REPLACE"
+aws_access_key_id = REPLACE
+aws_secret_access_key = REPLACE
 ```
 
 #### Deploy the API
